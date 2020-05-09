@@ -1,0 +1,14 @@
+[package]
+name = "First_Library"
+version = "0.1.0"
+authors = ["Hafiz Arslan <hafizarslan339@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/LionoMaker/First-Library"
+homepage = "https://github.com/LionoMaker/First-Library"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "First Welcome Library "
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
